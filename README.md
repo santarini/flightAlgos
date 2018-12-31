@@ -28,3 +28,6 @@ t:
 tt:
 
 https://www.google.com/flights?hl=en#flt=SFO.JFK.2019-01-15;c:USD;e:1;s:0;sd:1;t:f;tt:o
+
+
+https://www.google.com/flights?safe=off&lite=0#flt=SJC..2019-01-15;c:USD;e:1;s:0;a:B6;m:c.0;sd:0;t:e;tt:o
